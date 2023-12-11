@@ -67,13 +67,13 @@ export default function Sub3Component(){
                         </ul>
                     </div>
                     <div className="banner">
-                        <img src={`/images/sub/sub3/${state.mainBanner.이미지}`} alt="" />
+                        <img src={`./images/sub/sub3/${state.mainBanner.이미지}`} alt="" />
                     </div>
                 </div>
                 <div className="content">
                     <div className="content-banner-top">
-                        <a href="!#"><img src={`/images/sub/sub3/${state.contentBanner.왼쪽이미지}`} alt="" /></a>
-                        <a href="!#"><img src={`/images/sub/sub3/${state.contentBanner.오른쪽이미지}`} alt="" /></a>
+                        <a href="!#"><img src={`./images/sub/sub3/${state.contentBanner.왼쪽이미지}`} alt="" /></a>
+                        <a href="!#"><img src={`./images/sub/sub3/${state.contentBanner.오른쪽이미지}`} alt="" /></a>
                     </div>
                     
                         <Sub3ComponentChild benefit={state.benefit}/>
