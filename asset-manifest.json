@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rankingdakcom/static/css/main.a14451d4.css",
+    "main.js": "/rankingdakcom/static/js/main.6653efbe.js",
+    "static/media/ico_img.png": "/rankingdakcom/static/media/ico_img.d3871c7a0605292c78ec.png",
+    "static/media/heart-icon.png": "/rankingdakcom/static/media/heart-icon.934c50e9506f94571ed6.png",
+    "static/media/ico_bullet.png": "/rankingdakcom/static/media/ico_bullet.1591fa9445630b4e6614.png",
+    "static/media/ico_btns.png": "/rankingdakcom/static/media/ico_btns.2d9fef7173248bfdeb76.png",
+    "static/media/icon_circle_left_arrow_black.svg": "/rankingdakcom/static/media/icon_circle_left_arrow_black.511544af8604ba34e4de.svg",
+    "index.html": "/rankingdakcom/index.html",
+    "main.a14451d4.css.map": "/rankingdakcom/static/css/main.a14451d4.css.map",
+    "main.6653efbe.js.map": "/rankingdakcom/static/js/main.6653efbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14451d4.css",
+    "static/js/main.6653efbe.js"
+  ]
+}
